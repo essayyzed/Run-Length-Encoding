@@ -1,0 +1,5 @@
+This repository is of Run length encoding(compression Alogrithm). We implement it in C++.
+After cloning or downloading you can run the it by typing following command:
+"make && make run"
+Simply!
+Hope you will like our work.
